@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  margin: 0;
+  font-family: epilogue !important;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  font-family: epilogue !important;
+  border-radius: 12px !important;
+}
+
+input {
+  font-family: epilogue !important;
+}
+
+.text-align-center {
+  text-align: center;
+}
